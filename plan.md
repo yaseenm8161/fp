@@ -1,3 +1,17 @@
+F 5/5:
+- Images
+- Borders
+Sat 5/6:
+- Content
+- Info
+Sun 5/7:
+-
+-
+Mon 5/8:
+-
+-
+
+
 Adding a carousel to middle of page
 
 Fonting will be larger and text size as well
