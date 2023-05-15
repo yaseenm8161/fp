@@ -35,7 +35,7 @@ Aframe Shapes using code |<script src="https://aframe.io/releases/0.5.0/aframe.m
 
     Borders for each section
 
-    Navbar site https://getbootstrap.com/docs/5.3/components/navbar/.
+    Navbar site https://getbootstrap.com/docs/5.3/components/navbar/.  ><
 
     3d shapes
 
